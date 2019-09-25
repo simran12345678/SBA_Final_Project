@@ -1,0 +1,10 @@
+Started on 25 Sep, 2019 4:26:54 PM
+Using strategy: Default
+[poll] Last Built Revision: Revision ac2e84453ad4a53c3601bb71df04309e1d113a70 (refs/remotes/origin/master)
+No credentials specified
+ > C:\Program Files\Git\bin\git.exe --version # timeout=10
+ > C:\Program Files\Git\bin\git.exe ls-remote -h https://github.com/simran12345678/SBA_Final_Project # timeout=10
+Found 1 remote heads on https://github.com/simran12345678/SBA_Final_Project
+[poll] Latest remote head revision on refs/heads/master is: 6a7a4295ffc24e0adfe01140ab6055d01ac11dba
+Done. Took 1.4 sec
+Changes found
